@@ -1,0 +1,18 @@
+{
+  "OwnerID":"709839914442686535", 
+  "Prefix":"b!", 
+  "Token":"MTE0Nzc5NzYyMTEyNjIyMTgyNA.GnCM_A.E8AWJVMHjQ3ndOYddpxnGgs-0ENG4MUIy_hAu0", 
+  "Status": "Prefix b!",
+  "guildID":"1081956244551635066", 
+  "logChannelID":"1142453600388403230", 
+  "channelProtection":true,
+  "roleProtection":true,
+  "botProtection":true,
+  "banProtection":true,
+  "kickProtection":true,
+  "serverProtection":true,
+  "rightClickProtection":true, 
+  "whitelist":["1081956244656504904", "1081956244639723617", "1142113856458600489"], 
+  "boosterRole":"1084110076639449108", 
+  "jailRole":"1128627809749831680" 
+}
